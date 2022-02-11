@@ -1,4 +1,4 @@
-import * as THREE from "../three.js/three.module.js";
+import * as THREE from "./lib/three.module.js";
 
 function getRandomInt(min = 0, max = 255) {
   min = Math.ceil(min);
